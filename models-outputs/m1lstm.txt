@@ -1,0 +1,24 @@
+
+Model name: m1lstm.pt	topk: 2	words: ['the', 'sun']
+the sun is a little girl , the way to the end , the sun , the sun , the sun and the sky , and the sky , and the sun , and the sun , the sun , and the sun , the sun and the sun is a little and a little thing , the way i am a man . i am not to say . i was the same , the first thing that is the way to the end of the end of the world . i am not a man , the first thing that
+
+Model name: m1lstm.pt	topk: 5	words: ['the']
+the world has no way of the time of the night of the night . the sun . the sky is not to be a little , and i was a child , and the man who is it , the last of you . you will not be . but you are it is the same . the day is a little thing , a man and the same , i know the way , but the last of the sun has been in a dream , the one of the sun , i have not to the same , a
+
+Model name: m1lstm.pt	topk: 10	words: ['the']
+the river in a small world that , and we can be a woman in a book . i know how you are you and my own is not a time to see the world , but i was born of a woman and the way you are you . you are a poem . you have to be the old . ” in the middle of the house . the wind of the sun was no one . and the man has you have you to do the other . ” i know i have a good man to the earth
+
+Model name: m1lstm.pt	topk: 15	words: ['the']
+the sky and a small voice to the water , and the sun was a thousand men of the heart of a good thing , not , i was all my hand and the first time to say . the one will never be a thing about me , but we were so much as you have done the light , the man of what . the sky on a little man , a single thing . " then , as they can be , and i was born at the bottom of a time . i know . my eyes is
+
+Model name: m1lstm.pt	topk: 50	words: ['the']
+the wind , they will move with tears ? why are so i know it . in the house as if i went away , my head with a face is the right of the new land , i am the thing too , i am that god that thou art and let you come , which thou wast always time , to have known more to me ! for years that was all , where the world is only a way for a man , or that we call it , but but for with a world . his mind ,
+
+Model name: m1lstm.pt	topk: 5	words: ['you', 'are']
+you are the same one i am the way you can see the world the one i am a man who had a man who said i have to see , the world is the same . i have not to see , i am that , and the world , or to be a little thing , but the first time is a child . the world , and the man of the sun was a time , a little girl . the world is the world and the sun was a woman , and the same as a little man ,
+
+Model name: m1lstm.pt	topk: 10	words: ['you', 'are']
+you are not to be a little girl . a woman has made the world for a child of all the way it will go to this world , but not a few days , as it was an eye . and the night i have to tell the same to be . the one i know what they are , a man . and it , and i am a child in the sky , the wind in the wind in an hour of the world . the wind in my hands are not yet a child . i think of it
+
+Model name: m1lstm.pt	topk: 20	words: ['you', 'are']
+you are your mother ? you are the little boy . and i do you . i see it was a word ! so all the words and the lord of the world was still , and a woman to find the other . the sun was a man of what the night is a good thing . it is there . you want your friend from a woman who has become a new , but then the other . no love is the same , the other , who must be so many things that made me , and all this man

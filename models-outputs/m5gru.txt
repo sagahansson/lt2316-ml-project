@@ -1,0 +1,25 @@
+
+
+Model name: m5gru.pt	topk: 2	words: ['the']
+the way , the same way of the world , the way to be the way , the way to the world . the sun , the air , and the sun , and the sky is a thousand , and the sun , and the sun , and the sun , the air is the sky , the air , the wind is a little star , and the wind is a thousand , the air is a little star . the wind is the wind , and the sun , the air , and the sun , the air ,
+
+Model name: m5gru.pt	topk: 5	words: ['the']
+the world in the air . the wind is a thousand , in the air , and i see the way . i have been in the air to my own hands , and i know it . but i have been lost in my heart to be in your eyes and your heart and i will you know . the wind is in my hand , the wind , and it is the light , and the sky , i have been a little little woman , a woman , the old woman was a little girl , i am in
+
+Model name: m5gru.pt	topk: 10	words: ['the']
+the sun . they say , i know , i think that . i know it to be that the same one and it would be the same . i was the world was the woman was never to live , a woman who had made of it , and a little time , she was in a place to the way to her head . she is to say . the boy had a man . he was in an apprentice or not a child for this to the other way , the world was a woman and the woman of
+
+Model name: m5gru.pt	topk: 15	words: ['the']
+the world from some day . it is a small place and i am a thing that is not a kind of the heart , or a word , i have to the end of your own way . i think that it will never never have ever been in the mind , a man . and he said . the boy in the old world . the little man i have a man and to know the world is that i did not , but the man said , no one would see the way of his hand , he says
+
+Model name: m5gru.pt	topk: 50	words: ['the']
+the sea is all them and in the sun that made their heads and i was in the hand to myself . but i said the only man , with her eyes , her eyes are her own head . i did not not know my own hand now i think i was . not the world had it , when his soul is more than so the good man must we know a name . if the sun has disappeared . i had gone . , i had you again . there would not have done that i can see me
+
+Model name: m5gru.pt	topk: 5	words: ['you', 'are']
+you are a woman and my heart is a child , a little girl , the old man was a while in her head was a child . she had been a child . and the first night , a child , i have to the other one of us , the same , i have seen the same way i was not a woman , but not to say . she had to be in his own , and the man and the old man and the man who had been a man who said the first time he was a man
+
+Model name: m5gru.pt	topk: 10	words: ['you', 'are']
+you are like a small man to be you like you . a man . the first man in his mouth , to the ground , his voice was so hard , and he was the same , and in a little good friend . a boy i could you see his face . i saw the door of the old man with the night . the old woman i went to the end of her . the sun in the dark and the dark leaves that i was the little old lady i could be the same . but she was born
+
+Model name: m5gru.pt	topk: 20	words: ['you', 'are']
+you are in a dream of my friend . he had made the world on the way . it is the first morning i must make the last way . in the way i want to make the place of your own friend . i thought , my friends i see how do not love to the world from the way of those . we have never made us . i say , a small piece of the way to you it a girl who am a way , in the world , the eyes of a long white , the moon and

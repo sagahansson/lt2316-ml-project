@@ -1,0 +1,25 @@
+
+
+Model name: m7gru.pt	topk: 2	words: ['the']
+the , , the the , , , , the the , , the , , , , , the , , , , the , , , the the , , the the , , , the the the , the the , the the , the the the , the , , the the , the , the the , , the the , the the the , , , , the , , , , , , the , the , , , , , the , , the , the , , the , , the , ,
+
+Model name: m7gru.pt	topk: 5	words: ['the']
+the and the of of , , . . the the of of the the . , , the the , and and . the and , . the of . and , , , , and , , , the , the and and , the and . , of the of the . . , and and , . and and , the of of , , , , the of . and , the . , the . . , . of . . the the , the . the and the . of . the and and .
+
+Model name: m7gru.pt	topk: 10	words: ['the']
+the and . , with to i the i of , , , and . of i and . . , the a the . the . , a you , of , of . a , the and of , , to i , a , . a . to , you of of , . the in to you and , a and in a the . a and , . you the , . to to . , the you to , the . the and the the in the the , in the the . . a the
+
+Model name: m7gru.pt	topk: 15	words: ['the']
+the i . i it of and my and , , the the the , , the , , , with of in is of the i , , to of and a to , . to of , of is is in . . with . to i , you , in . my the the to , , , . of . . , , and to . , , i that , , to and . i , , the of the in to . i the , and you and you in , the , and is with
+
+Model name: m7gru.pt	topk: 50	words: ['the']
+the in i , like and , . his and ! so , . , , for what , the this with or in the the to . and . as no his will , , if to be all . , for their is on not as of , it , in to the when who ! ? he . our like with , of in her of of , you , a the ! what your all one this and and no for the ! as are of by the of ! the was , our is and , i
+
+Model name: m7gru.pt	topk: 5	words: ['you', 'are']
+you are of . , , , the the and the , , and the , the . the , the , . the , the . the . the of , , , the and of the of . , the , . , , and , , the the , , and , , , the of , and , . the , , of . and , . , . , and . , the , , the . of and , the , . and , and . . the . and , . the the . , ,
+
+Model name: m7gru.pt	topk: 10	words: ['you', 'are']
+you are . the and in to , . a of in of the and a of i the and and in the . and a i . , of of and and to the and you , you a of , . of the and , to . the to the the the . of and the of to . i , i the a and of to a . to you i a . , , , , , and a , , . , and the , , to i , and . a . . the i of the
+
+Model name: m7gru.pt	topk: 20	words: ['you', 'are']
+you are , and is it i but and , with a , as the . i a the of , , of and , . you and , the to a with for a . the and it , , is , of i a and the . that of . . of to the i , . and and in of of the the , a , of . that of , you to i the . but that that that . , a with a the . as , and to to and , , the , the , a

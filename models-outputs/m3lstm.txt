@@ -1,0 +1,27 @@
+
+Model name: m3lstm.pt	topk: 2	words: ['the', 'wind']
+the wind . the wind is the way of a man . i was a woman with the first , the man who had been a little , and the way of the sun , the one . i was not a man who was a man who was a woman in the world . the sun is a man . i am a man . i was a man . i am the way to be a man . i am a man . i am the same . i am a man . i am a woman , a man
+
+Model name: m3lstm.pt	topk: 5	words: ['the']
+the air . the night . i am a man , i know , to say you have you to do you , and the time i have been in your pocket . you have to be the way . the sun is a little bit of the sky . a little bit of my heart . it was the world , and i will see my own . i have seen a woman with a little , i have to be the end of a man . a woman is the way to be , or a man . a man
+
+Model name: m3lstm.pt	topk: 10	words: ['the']
+the guam of the world , the sun in a dream . the world must die , in their hearts of the earth , where the night the earth are with a golden phrase; and then the day , i have been not the way of the dead . she has come to see the light . the wind is . a man who knew that she could have been like a long time , a woman , and then his mother , the last time he has never seen to be an hour , the way he is that he would
+
+Model name: m3lstm.pt	topk: 15	words: ['the']
+the dark sun is the way i am afraid to look , that we must be done ! what is a man in his hand , i have the first time to you ? it will be to make a long day of my heart , as a woman and a girl , the little man , i think it . but i will be too close , the world , and i think of it i had my life . the night was . i thought i saw the world in a field of your mind . i am the same
+
+Model name: m3lstm.pt	topk: 50	words: ['the']
+the dark grass . It’s all for all those who with your eyes in our mouths , and the lights in the fields of this river is the wind of the ocean of that dark leaf and you were so much so well the same time , the only more , then i saw no reason , a man who will see again you ? for your mother’s heart , in my life ? which that is done the whole body with the long , i have done you all over ? " and i love all the other more than a
+
+Model name: m3lstm.pt	topk: 5	words: ['you', 'are']
+you are but a man , a little girl who had not a man , and i have a good man in the world . you will be a man with my own hand , my heart and the end of the day . he is the first , that i am in the morning , that the sun is . the wind , the air of a house . i am a child in your own . i was the same , i was not to do . and i have no one , to do not know . the world of
+
+Model name: m3lstm.pt	topk: 10	words: ['you', 'are']
+you are but a few months , but i would not say , in the morning . you can tell me i will see it in a little , i could not see my eyes . the night . i don’t want a man . i know how i was . . . . . . the night is the wind , and it has the first time of the dead , i am that i would take a little girl from his back , and the same time i know that is that , the other , the ones i had you
+
+Model name: m3lstm.pt	topk: 20	words: ['you', 'are']
+you are still alive . if i could never have seen to come to , the sun will not speak the story that will be more than we are not as well , and in the wind and the fields were steeper ! but the sky , all the night where the world may be done , and we shall know . this is your own ? " " " " o , " oh ! the lord is all this time . but we should know if to you . my hand in the earth ! my love , which shall i
+
+Model name: m3lstm.pt	topk: 2	words: ['the']
+the wind . the sun is a little . the sun is the way of the world , and the way of a woman , the one , the one . the world is a man . the sun was . a man who was a woman in the world , and i am not a man , and i have to say . i am not , and the way of the world , and i am the same , and i am not , but i have seen the world , and i have been , but i am not

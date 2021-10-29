@@ -1,0 +1,25 @@
+
+
+Model name: m5lstm.pt	topk: 2	words: ['the']
+the inscape never been a man . the sun was a man , the sun . the sun is the way to the sky , the sun , and the sun , and the sun , and i have been , the sun is a man . the world is the same , and the first time of a man . the world is a man , the same , i am not to be a man who have been a man . i am the same . the sun is a man , the way to the sun , the sun
+
+Model name: m5lstm.pt	topk: 5	words: ['the']
+the end recited: the same to the same one . i will not see it , that i know , i have been in the world , but the same . i know that i had to say , and i have been the world to the other side to be , the way of the world , i know , i have been the time of the end of a dream , to the world of the sea , the way of the world of my heart . you were a thousand times i have a good , for a man
+
+Model name: m5lstm.pt	topk: 10	words: ['the']
+the franca huhuhu elbow-work monoxides of a new york where are so . i have a way . and i can go in a book , but when i was going to go to love . i will not be the other , which we know the man , in this , yet i am to the end of a new language ? i was the old woman . the wind , and the sun and the sky , and the first , the sky . it is not the last . the wind was a thousand feet and the first time
+
+Model name: m5lstm.pt	topk: 15	words: ['the']
+the secondhand-book house , as though to be a good for that day , you don’t want to be in a man . in the night , on the edge to sleep , but the man is to the way to be no reason to be born in the morning than you are going to be so near to my head . i am not a woman that shall ever be , and then , or you will be a few of a woman , a friend ? but when you are a thing . but you don’t have been . the
+
+Model name: m5lstm.pt	topk: 50	words: ['the']
+the one is most good but it , a sign where it would you do the only end , but i was trying to keep , yet of the moon may not exist without a mind while the moon has fallen , like a glass , we might hear the air on these feet . in the land , the world so hard to be told . then we see the ground , it , and he must die in that mind he could say that all those which i said , i cannot read , i remember no as a poet
+
+Model name: m5lstm.pt	topk: 5	words: ['you', 'are']
+you are the same time to be in my heart . the first , i have a man . you were the same . the world , i have been a time of the world , and all , and then you are not a little while we were in the same . i am not in the world , and the way the first time of the first one of my heart is not to be , and all the earth and the world , and then you , and the first , and the first day . the day is all
+
+Model name: m5lstm.pt	topk: 10	words: ['you', 'are']
+you are so , when we can see , a friend that must never get to do . i can have a woman . you are , i have done , my soul , my eyes , i know the time is a thing but it was all my mother , and the same , and all i have no one more than that . but i have a friend . i don’t know . ” and we are not a thing that is this , i was no longer yet , the first thing of time ! ” he will see .
+
+Model name: m5lstm.pt	topk: 20	words: ['you', 'are']
+you are your mind ? i am born in this place , or that we want to say . and you can’t know . we were a single place . i would have a sense of this dream , a woman with the end of our life , but not just a little , not by one , i see that all i know a time . when i am to see you ? the same is so , or maybe it not to the first , that we see that i am , for thy love , that i do you hear

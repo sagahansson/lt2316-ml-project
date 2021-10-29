@@ -1,0 +1,27 @@
+
+Model name: m3gru.pt	topk: 2	words: ['the', 'sun']
+the sun , the air , the air , and the first , the world , the sun , the wind and the world . the night of the night , the night , the sun , the sun , the sun , and i am not a child . the sun is the night . the night is the night . the sun is a little of the night . the sky is a tree . i have a little time . the sun , the sky . . . the sky is a little . the sky is the night
+
+Model name: m3gru.pt	topk: 5	words: ['the']
+the sun was the first day , the sky , a man , the man and the sky , he is the world , the sun , the hand of a tree and the night , the sun , and a woman who is the only thing to be , but i have seen my own . the moon of your face and my heart , a woman in a room , the air is the night of the sea , i am a child , i know you were a woman . i know . the old woman , i am
+
+Model name: m3gru.pt	topk: 10	words: ['the']
+the dead man’s eyes and his feet . . it was like it , in the darkness of the world , and he would not know , for the first man who said , when the world was , for his heart to be the god of the world . but thou wilt , in the darkness where thy soul is a star . i have never seen , that , the way to be a way of my life , when i had not lost to me in a long , while i have not the world of you ? and
+
+Model name: m3gru.pt	topk: 15	words: ['the']
+the wind , as the light is not seen the world . my dear body , a bird . a red woman . but the poem of the first time of a child was in my hand . i will be found . my mother , the woman i will know the first to say , in my hand . the old man , the little , that is to take the same to do . but if i had to be the way you could you get you into the house in my own body and you are in you ,
+
+Model name: m3gru.pt	topk: 15	words: ['the']
+the first word , i know not . when i am no reason of a poem about the one i would have been the one who have a friend for a certain , one of his love . i had been i had a few years of time ? he has his wife was dead . and i did so . but not to him . the second was the moon is the sea , a man . the old voice is his body in his own arm . i am all at my mother , the old hand that holds my
+
+Model name: m3gru.pt	topk: 50	words: ['the']
+the dead , a small sky with our heads . the leaves are not that it is that the truth with it . but you can come to you as in the dark of the earth ? when i say , that she does that feel no , of love , of the one and thought of the sky , with it to us a love of death to be the way of the world ? and with a few that do all you have not loved so long ago . i am still i not . i have been . the
+
+Model name: m3gru.pt	topk: 5	words: ['you', 'are']
+you are you ? i know you . you can see your voice . i have no longer . i have no one more than a day . you are a poem , and i am not a thing to be the first . the night is a man who is not . the world was a child who knows . the night , the sky is not the one . the sky . i was in the way that i could not see it , as if it was . and the way i am a boy . i have been the
+
+Model name: m3gru.pt	topk: 10	words: ['you', 'are']
+you are your own body ? i don’t know , i am not my love , i can tell , i am not you . you will be in a world of your own , my mother , and then i have the way that i know , when we are , and not to make us the other , that they are not , the old man , the man for the example of the time , and i am a thing to do you , i am so long enough the first way i could see you , and i have
+
+Model name: m3gru.pt	topk: 20	words: ['you', 'are']
+you are like the light . you know that i think you have the next to go , the same to make your little , the last that of you can have that your eyes like the door , the eyes in the air , on the sky . we had no time we will have been , in a dream . you must be , and all , and that is no time , and all the things that may be so much , or , nor is a man of hell , who could have all its son . . .

@@ -1,0 +1,25 @@
+
+
+Model name: m6gru.pt	topk: 2	words: ['the']
+the sun , the dark of the sun , and the world is a man in the dark , the same . i am the one of my heart , and the sun is , and i am the same , and i am not a man , and i am not the same , i am not a little thing , i could not be a child . i was a little woman in the dark , and the night , and the sun is a little . i am not a friend , i am not a friend of the
+
+Model name: m6gru.pt	topk: 5	words: ['the']
+the world is a man who was a little way . the first man is the same . but i have a man in the way . the wind , my mother said to the the the night , i was not afraid . i am no one , the same , i know the time . but i have been the way , and my heart was the same . i am a man , i am a man in my heart . my father said , i know . i will be . i was , but the old world
+
+Model name: m6gru.pt	topk: 10	words: ['the']
+the old idea of his mind and you are a little thing , the way you , and your face , a little boy , i know your mind , your mouth , and it would be in your heart . but i can see , your voice was the end of your own , the dark , you can see the way to your bed , in a dark . it is a way to be a long . i am a way to me . the wind and the moon is to the edge that in this , or the
+
+Model name: m6gru.pt	topk: 15	words: ['the']
+the wind of all , i will not have a new world in the dark . . . , a young woman , the last night . ” " he says ! ’ " " i say a man , i think of the night , and you are not more than your mother . but if you will never have a little . in you were you . the wind , your fingers were the same i was in the world , you see the way it will be the same with a friend in the same time in you like
+
+Model name: m6gru.pt	topk: 50	words: ['the']
+the old ones , that i could be ? ah i cannot know you , if you will see and the old man , which have to be a little dream . . , all day , now in the end of their voice you in the poem for it , if you could give my head , that are that , so they are , like the dead , they say , and there is your own words but what i think it , you were an egg to a tree , and the first that i go ? ” we
+
+Model name: m6gru.pt	topk: 5	words: ['you', 'are']
+you are like a woman , and you , as if you are , you can be your own , but the same is you . i am a little man , i know that you can see , and i know that you can do to do you . you are not a little time . ” the administration are the old idea you can have been not a little thing to me . i am no longer . i don’t say . i don’t know what you are not a little poem , i will see the the the same ,
+
+Model name: m6gru.pt	topk: 10	words: ['you', 'are']
+you are your eyes , my hand , and you see , but the sun . but the little world that is your mind , and you have been , you , a little man in the sky . the night is the same in the dark , you know . you will be the time you , and then , i am in a long house of a little girl , and i have a way to see you , and the little day , the first of the earth in all . and i had you for your own and your
+
+Model name: m6gru.pt	topk: 20	words: ['you', 'are']
+you are that of a girl in your life in the dark . we have a few and a lot . the time they are the same world . the sun was in their own . . to us , and i had been able to see the door , that can be , but i see my soul on the air , the little boy , the sky of the world was in the air , it is still to know not what i was more than you . i will have seen you i was no like your own skin ,

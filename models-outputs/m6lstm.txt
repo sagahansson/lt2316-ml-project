@@ -1,0 +1,25 @@
+
+
+Model name: m6lstm.pt	topk: 2	words: ['the']
+the end of the world . the world is the way to the world , and the sun was a man , the way to the world . the sun was a man . i am not to be a little . the world was a little . i am a little , and the way i was a little , and i have been , and the way i was not a little , i have been a little , i am not to the end of the world . the sun was a little . the world is the same
+
+Model name: m6lstm.pt	topk: 5	words: ['the']
+the end of this poem of my own love , the world is a man , a few of the same , i have to be a little , that is the time i have been the same home . i am not the first , that you have to be a little thing to the way . the sun is the other . you are a way to the end of the world , and the first thing i have been the same , i have been . i am not , i have a little , but i could tell
+
+Model name: m6lstm.pt	topk: 10	words: ['the']
+the versateller can see the world of the world that would say it was the little girl , and the world of the light is the first of the world in a house on . i am not a way to you to the world and my heart , a woman to a woman . we know you , or the one was the time of a thing and i don’t know what he had not a man who would be a thing in a world . and the old woman is the old house . the world has a new man
+
+Model name: m6lstm.pt	topk: 15	words: ['the']
+the sun is the whole of me . i can see the time . we are that . the way of my own heart are not in his heart , that is the time of the way . we are the same , and the same way is the world of men . they know . there is to be the dead . i will be a good . . we were born in the way the sun , the world , and i can tell the same , i am not you . i have been to my own love and
+
+Model name: m6lstm.pt	topk: 50	words: ['the']
+the snow and the world is the day . the world has come to them at the morning . she was your voice into a dream of something the first night . ” you can see the last i call you for me , when you must give you to myself . oh love , ” but why we have passed me on his sides , of the first thing will . but the mother was one kind of life without a man on my hand a year ago . but that the little people who was a day and the first
+
+Model name: m6lstm.pt	topk: 5	words: ['you', 'are']
+you are not to be , i had been the same , and the world is to the way to the world that are a new man who is the way , and we have been in the end of the same to see the night , a little , the first time of the way to the world of the world , and i am not the world . and the old man is a new man , i know the world of the world is a little . we have been in the world of that other . i know .
+
+Model name: m6lstm.pt	topk: 10	words: ['you', 'are']
+you are in a mirror . the way we do , the world . we will be in the other ? the time i could see you , i have to see my own , i was born . i am not for my love . ” they were the same . i could not see what they will be a good , who will be so , or as the sun and the first thing , but a man , a man . a thousand times a little man who could see the world . . . . . . . the
+
+Model name: m6lstm.pt	topk: 20	words: ['you', 'are']
+you are the way the earth are the air that they want to see the time , though we were , for the end of it to my soul . we can find them and have gone in the night and we were gone , the sky was not a new thing to know how to be a moment that i saw its eyes to get there . i have to know of that place or to my head , you must have no one of which i was in a field for you ! the world i know how you can see

@@ -1,0 +1,24 @@
+
+Model name: m1gru.pt	topk: 2	words: ['the', 'way']
+the way to the world is the same , and i am not the same . the world is the same , the world , the world , and the world of the earth , and the first , and i am not the same , but i am not a little , i am a little , and the world of the night , the wind is a little , the wind , the wind , the sun , the sun is a little , the wind , and the wind is a little , and the sun , the sun
+
+Model name: m1gru.pt	topk: 5	words: ['the']
+the first time we are not to know , i am a long , and i have been in the sun and i have a good . but i am the same . you were in the house . i am not the way to the world , a little thing , and the other in the sun . i have a little , i know . ) i was not the way to my own house , a little , in a field of the water , and the night , the wind , i am a long , i have
+
+Model name: m1gru.pt	topk: 10	words: ['the']
+the world that was no one , but the first day we were all , but the night , the first other is the same , in the world , and the earth , or the wind of the night of it are to the world is the one in the dark . and the first time to make it , and the world was no time in a world that has a man in the dark . the wind of his body has a long time to the world , and the same , but not a man who would know
+
+Model name: m1gru.pt	topk: 15	words: ['the']
+the first , or i am still so much . i know you have to say the more one was so often . it has been . i am not like the man of the last night . in the first one of the night . the first , and all things , the sun has a new day to the way to the city is to the sky . the time , i think you will not be , as a woman , your head ? ” . . . . and you do not know what that was a great
+
+Model name: m1gru.pt	topk: 50	words: ['the']
+the first song of their bodies , and the whole smell of my father did not ask . no one they make me the child . i am not a man to me , we take a car , on all the beach , and the same time was a girl . to the fact is our place at night , a dark and the color of the world . i think it is so , so it made me for my own . oh , and i saw , a little , my head was dead ) the water and a
+
+Model name: m1gru.pt	topk: 5	words: ['you', 'are']
+you are not so much of the end of the first time . i will be , the same , i have been to say , the world of the world of all the world , and the world and the earth , my eyes have , the first one in a man is not the dead , and you are not to the same , the sun , the sun is all the sun , and all that is a little . i am not a man in the world , the same , and the other , and i will not
+
+Model name: m1gru.pt	topk: 10	words: ['you', 'are']
+you are not the world , that is the end that we know the same thing to the world , a new thing and we are to a long time , the world of this day . we had to say of it , and the last night i can hear the world to my face . the last thing of a woman says is a poem of this life . you are in that time . the little girl , a little girl on a wall of the air in the air , the sun , a single bird , the one
+
+Model name: m1gru.pt	topk: 20	words: ['you', 'are']
+you are to see the sky , your mind ? when you are going to be a few things at your feet , but when i want to you were . i have a place of the sun . what i am a long , the great girl , her first the soul in his own love , his face is so to thy heart ? a poet may be thy old self , in the earth , and the great light hath set with the same way . . when i could tell it ? but the old word to be ,

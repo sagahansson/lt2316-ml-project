@@ -1,0 +1,25 @@
+
+
+Model name: m8gru.pt	topk: 2	words: ['the']
+the world , the same , the world is the world . i am a poet , a poet , the poet , i am not not not a poet , a man , a man , the world , and he was a man , he says . i have a man , the old man , the first , he was a boy . he was his wife . he was the old man , the first , the old girl was a boy , the boy , and the first of the old man . he had a boy
+
+Model name: m8gru.pt	topk: 5	words: ['the']
+the way . we have been the problem , a time . the water is a small . a little child . i am not afraid . the world is a new century , a little girl and the little . and they have been a man . they are not a man , and he is the world of a man and who would have to be a woman , and the old men are not not not the way . a woman , who was not a boy and a man , he says . he is his wife ,
+
+Model name: m8gru.pt	topk: 10	words: ['the']
+the way i am older; the grimy ouija pool of the horizon , the wind , a light on the wall , and the sun falls on a bench . the tree were on his body . i would have been a man to the end he will be so a man . he thinks his heart to the world . he had a little girl , the old boy had his sister . i am sitting with a dog , my brother . a mother said . they say her , and the little one , i wanted . the first
+
+Model name: m8gru.pt	topk: 15	words: ['the']
+the old girl , as if i wanted to say the old girl to the end of the world they had been to the one of the end . the water was a small blue sky . it was the whole world of a woman , like the old , and the sun would come . it is . as i had was the world and the one was to the world . but i had a woman would be so much , the one is not the little one . it doesn’t know of the end . i am a long
+
+Model name: m8gru.pt	topk: 50	words: ['the']
+the world , no matter they give their secrets . the one of us , with a time , we cannot trace her , still . the man . the lord will one woman . in him . I’m thankful to me with thee ? my heart in your love , what is a poet . you would tell you . . the sky is a dog , to your house to eat . a man would have all this the way . i don’t have the wrong a place . . he goes , and a child with my fists of
+
+Model name: m8gru.pt	topk: 5	words: ['you', 'are']
+you are the dead . i will not be , i am a woman , who can say that is not not the dead . the sun has a little child , a girl . the man who is a little woman who is not , a woman . she was born . i am i in the air . the dog was a little child . the moon , the moon of the air , a child . it was a dream . a girl in a girl , the black girl . a boy . a girl in the dark .
+
+Model name: m8gru.pt	topk: 10	words: ['you', 'are']
+you are in the end of this side , the light of the white wood . my father is a man , the world , a woman . a boy will have a little mutt of the floor , and all the air . i was not a small , the little girl . and a girl and a man , he said . he was a boy . he wrote , he was a man . his wife was ready . but the boy had said , and the story he would he said a little . a dog , the old
+
+Model name: m8gru.pt	topk: 20	words: ['you', 'are']
+you are the old one , that has been that i have been not a poem and a moment i were not with this time . ” then . for you were , when there was gone to the sun . the moon . a thousand days . when we are we . we have found the people before . then there was a dream of a thousand thousand hours with the snow . in the air , the sky . all day will be always . the morning , where we fly , in the middle day that the moon will come

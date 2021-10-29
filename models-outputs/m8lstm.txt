@@ -1,0 +1,25 @@
+
+
+Model name: m8lstm.pt	topk: 2	words: ['the']
+the same , i am not the same , the day , the sun , and the sky , the sun . i am a child , and the sun is the world , the light , and the old men , and i am a child , and the sun is a little man . i am not a child . i am a child . i have been a man , the sun , and i was a child . the sun was a little , the sky , and i was a man , the one of the sun
+
+Model name: m8lstm.pt	topk: 5	words: ['the']
+the world , and all the men of the world . the sky was not a man to do . the sun is my life , and the sun was the world of my heart , a woman , a woman . we have been a boy , the sky is the world to do with the world , the old ones are the dead ? i was born . i am not the first of my life , the sun and a white washstand . i know it , the world . i have no more , i have been a
+
+Model name: m8lstm.pt	topk: 10	words: ['the']
+the sun to the dark in its own , the the sun , the light was a poem to the sun , and a red tree of the sky and all my soul , we are a thousand ways to make the old chevies and what it is a book . ” but the day , a man is no longer a boy to the same , and the wind is the sky . you were , when i will not want the first day in the sun . it was to say that i have been to your own , the
+
+Model name: m8lstm.pt	topk: 15	words: ['the']
+the duke . we cannot be seen . he said i could say . a dream you may have seen me . i have been a boy to do to go , with a few , and the skaters , all of a bird is your pastime; love , but to know , i have been in which , i am not here . the day of us i am not to make a woman . she was , . . but when i was a man who came to me , a friend , i see my hands in the river
+
+Model name: m8lstm.pt	topk: 50	words: ['the']
+the light or a moment where these first of life is not to live in which . there is this . and you were all . in their errant way before you had eaten as long as the moon . i went at the house . this was my cousin . . from the earth the duke , a time of huntingdonshire t on a corner of a tree , in the planet’s ironworks as soon to the air . i have to imagine thee , no more timely-happy , o de en route . the way the air a red path
+
+Model name: m8lstm.pt	topk: 5	words: ['you', 'are']
+you are a child of the world . we have not been born to the same , i was the dead . the man , a child , i know the old swimmin'-hole , i have been to my own , a voice of the sun , the wind of the dark and the trees , and i have been to you , i will be a woman to say , i have been the dead . ” the men are , the one of your hand , and the stars are all that the world is a day . and the men
+
+Model name: m8lstm.pt	topk: 10	words: ['you', 'are']
+you are the sun , and then he is a child to live in the air , the old world is no more . it was the sun , the night and the old man . i am not going to say , but you could do but you will be the dead , i could be the end . the old swimmin'-hole was a boy . the earth , but the day i saw the world , it was all the same time , you are the same day for the night , and a little girl , in a small man
+
+Model name: m8lstm.pt	topk: 20	words: ['you', 'are']
+you are the world and you may never say , and the people have i can live . we were a child of the city the old men say to all . the night , a tree is a little and the long , she was my life in my desk and the sky is your mother to make it ? in the dark , where we may have been to the world . ” if i said , my life that is the sky i was not not so many times the one , as if the world would , the wind

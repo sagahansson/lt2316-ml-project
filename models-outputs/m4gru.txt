@@ -1,0 +1,34 @@
+
+
+Model name: m4gru.pt	topk: 2	words: ['the']
+the first of the world . the first day , the night was the light of the world , and the wind was a dream . the night was a god-bee , and the wind was the smell of the sea . the first time was the end of the world , and the world of our own days , the difficulties of the tribe , the only recourse , and the night of the elms' trees . the sky was the sky , and the light of the night . the moon is the smell of the world . the stars
+
+Model name: m4gru.pt	topk: 5	words: ['the']
+the first of the world . the king of the world is the element , and the proudest insistence , the whirligig of the earth . the world was the first time . it was a way in the air . i saw my father . i was the old woman , the first day . it was a time . it seemed to be a little one . it is not . . . . . . . . . and the only time i am , the first , and the lord , the splendid , that , and the
+
+Model name: m4gru.pt	topk: 5	words: ['the']
+the first of the world’s day and all the day , and the night , the moon , and the sun , the sky , in the dark . . . . . . . . . . . . . . the even-numbered , a sloppy red balloon , in the dark of the tamarind sky , the leaves of a dream , the stateliest glimmer is in a dream where the trees are not the ill-starred vibration of the world that i have done . the world is not to know the truth of all the things , that is
+
+Model name: m4gru.pt	topk: 10	words: ['the']
+the earth , the earth of your father , and with his eyes , the lord . i am not so far from my love i will not be , for the world . they have no . you are not the dead , the crutches ! the din of the moon ! ” he cried , and all your own , for the naval , the publick is not a kind of a duplicate . the one , and the last resort is there is something else . in a time i am . and i am not my brother and
+
+Model name: m4gru.pt	topk: 15	words: ['the']
+the one day of love , the great one of the dead day . the night of the house . . . it came into the first time , and all the world the earth is all to be to be the world to be , and we are , with our love to the way in the piazza i say to be . in my arabic i will have no money nor the same . no , but that i am as well with the eyes of the harvest-time , and the dark of their own , as a lizard ,
+
+Model name: m4gru.pt	topk: 50	words: ['the']
+the next things we were . the sky we talked of all the words the things are not not even when they were not even though if the children could not feel , i am not the earth you should do the whole soul , we lost our bodies , as we move like . we turn again the eyes , for the day we don’t want to hear . what is the same . after what is there in a doorway . she knows her , who says , who can her . in which have made her hair , i
+
+Model name: m4gru.pt	topk: 5	words: ['you', 'are']
+you are your eyes , you have been . the poem is the end of the mind . and i know that the poem of the day . i have no one , or the old man , and the man who would know how to say , and i am a woman . the first time , the first time i will not die in which i am , but i am still , i am not the most effective , for a moment to make the world . the world is in my heart . my soul , my heart is
+
+Model name: m4gru.pt	topk: 5	words: ['you', 'are']
+you are the same , the one who will have the same to the other thing: you may be , but the one who will not have the same for . i will be not a friend . i have the old age to the geriatric , the one , whom i have been to see my own . i am still , the same , but i am not the same for a moment , but i am not the same , but the world is not a kind of the best , and the old man , that the lord ,
+
+Model name: m4gru.pt	topk: 10	words: ['you', 'are']
+you are so beautiful , in the air that is the first , i have not been . but it is , i know . i have been so doggone on the sectional . i have the way i was too late . i was too far , and a little thing i could hear the second gramophone , and my body , and a man , and a woman i will be happy . i am the minx and the sun shines and all my love . i was a boy and the day was born , the old man , i
+
+Model name: m4gru.pt	topk: 10	words: ['you', 'are']
+you are the way to the sea the sun , and the lull'd men that have the same . in the day i was in my own shire , i was in your prime of information , and the world , and the rest is a diabolic and i know not to know the way in the next , and the little thing i have to have a place to say . what it is a dream . i know my love . it is the way , the only things of the other things , who are you ? ” but the
+
+Model name: m4gru.pt	topk: 20	words: ['you', 'are']
+you are lost , that you are not so to do , what we will find the world where it can be good . as it is , as it will come into a vast heart as a dove . i was a man who had gone to the old . when the man i loved . the cheated was only a dream to be known of the other year , the way that they have never known the end of this . . . . . . we would spend the day . it was an enormous pattern of the water .

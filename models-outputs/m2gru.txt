@@ -1,0 +1,24 @@
+
+Model name: m2gru.pt	topk: 2	words: ['the', 'same']
+the same world , the same is the time . the sun is a man , and the night is a man , the man is the same , and i was a woman , and i am not the same , and i am a woman , and i was not the same , i am the man , and i am not a man , i am not a man . the first , the sun , the sun is a man . the sun is a man , and i am a woman , i am a woman .
+
+Model name: m2gru.pt	topk: 5	words: ['the']
+the same . i was the same of the time , the little girl was a man . i am not the same thing . i will be a little . you were the thing . i was not the thing . the sun is a man , the first , a woman who would be , the way , the world , a little and the man is to the world . and the sun , the dark of his own , a man , a little and a woman , and the way of a man and a woman is
+
+Model name: m2gru.pt	topk: 10	words: ['the']
+the light is gone on the floor . the day , the dark of the world to a man . she said that they are still to be a moment that will not have to be a man . but a man , the first thing that we do not be all to do we were , we are not not a thousand or , and the world , or to be a man . we have to be , to go , or we have a man and it was a moment , or a way it would it was the
+
+Model name: m2gru.pt	topk: 15	words: ['the']
+the river of all the dead of its last , but the last of the time , but the man , and the one of the night . i am in the way to be going out of her , like the same , and the sun , the way that are not the other and the day , the sky has been . and then the world , and the dark day , the sun , the white . . . . we could not have nothing and then you will , your love , and when you see my life
+
+Model name: m2gru.pt	topk: 50	words: ['the']
+the sun . you can be lost . we don’t be about the whole world of light , and for any and of a few things i saw you , and the soul , the moon have been that had been , or the night who are going to . no other time . the young night was in a city , i know that i love it was all of my own , where i think , i have grown to your own . we have nothing . you get that night in the morning , where should you go all
+
+Model name: m2gru.pt	topk: 5	words: ['you', 'are']
+you are not the same ? and the sun is a man , the first man in a moment , and the world . . , i know , i am not not , to the world . the first one , a little girl , the little day . i have no more than you , and i was the old of the time , the same of my heart , and i will i have not to see the world , i have no more than a time . i have seen my own heart , the way , and the
+
+Model name: m2gru.pt	topk: 10	words: ['you', 'are']
+you are the other of my mother , and a man , the little day i saw the earth , the sun , and the sea , the long light in the air and the air , a woman in its back , in a dark and the world . we know how to the old world . the day . i was my friend . ” she says . . but we have a man , as we have to our bodies and in the world of the sun to the sky that the way to the earth of the world ,
+
+Model name: m2gru.pt	topk: 20	words: ['you', 'are']
+you are your body , your heart is not you , i am a man ! you may go , and you would be . but i have been still , i say , you had , as you must be . ” in a book of a little day , we see the sky , that we cannot see , their hearts were still . . . . a day . the man has gone , the moon of the first light that is the first one i have loved it , as it has a word , i have not to
