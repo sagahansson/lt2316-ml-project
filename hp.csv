@@ -1,0 +1,17 @@
+Model_name, batch_size, seq_len, embedding_size, hid_size, n_epochs, lr, gru, num_layers
+m1gru.pt,40,32,32,32,20,0.001,True,1
+m1lstm.pt,40,32,32,32,20,0.001,False,1
+m2gru.pt,40,32,32,32,10,0.001,True,1
+m2lstm.pt,40,32,32,32,10,0.001,False,1
+m3gru.pt,40,32,32,64,20,0.001,True,1
+m3lstm.pt,40,32,32,64,20,0.001,False,1
+m4gru.pt,40,32,32,128,20,0.001,True,1
+m4lstm.pt,40,32,32,128,20,0.001,False,1
+m5gru.pt,40,32,128,32,20,0.001,True,1
+m5lstm.pt,40,32,128,32,20,0.001,False,1
+m6gru.pt,40,50,32,32,20,0.001,True,1
+m6lstm.pt,40,50,32,32,20,0.001,False,1
+m7gru.pt,40,32,32,32,20,0.001,False,10
+m7lstm.pt,40,32,32,32,20,0.001,True,10
+m8gru.pt,40,32,32,32,20,0.01,True,1
+m8lstm.pt,40,32,32,32,20,0.01,False,1
