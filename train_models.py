@@ -9,49 +9,17 @@ import pickle
 import numpy as np
 from poetrymodel import PoetryModel
 device = 'cuda:0'
-
-#class PoetryModel(nn.Module):
-#    # initialize RNN module
-#    def __init__(self, n_vocab, hp, dropprob=0.5):
-#        super(PoetryModel, self).__init__()
-#        self.seq_size = hp["seq_len"]
-#        self.hid_size = hp["hid_size"]
-#        self.num_layers = hp["num_layers"]
-#        self.gru = hp["gru"]
-#        self.embedding_size = hp["embedding_size"]
-#        
-#        self.embedding = nn.Embedding(n_vocab, self.embedding_size)
-#        
-#        if self.gru:
-#            self.rnn = nn.GRU(self.embedding_size,
-#                            self.hid_size,
-#                            self.num_layers,
-#                            dropout=dropprob,
-#                            batch_first=True)
-#        else:
-#            self.rnn = nn.LSTM(self.embedding_size,
-#                            self.hid_size,
-#                            self.num_layers,
-#                            dropout=dropprob,
-#                            batch_first=True)
-#        self.fc = nn.Linear(self.hid_size, n_vocab)
-#        
-#    def forward(self, x, prev_state):
-#        embed = self.embedding(x)
-#        output, state = self.rnn(embed, prev_state)
-#        out = self.fc(output)
-#
-#        return out, state
-#    
-#    def init_zero(self, batch_size):
-#        #initializing zero states for gru/lstm
-#        if self.gru:
-#            return (torch.zeros(self.num_layers, batch_size, self.hid_size))
-#        else:
-#            return (torch.zeros(self.num_layers, batch_size, self.hid_size),torch.zeros(self.num_layers, batch_size, self.hid_size))
  
-
 def get_batches(flat_poems, w2id, batch_size, seq_len):
+    """
+    Batches the data.
+    
+    flat_poems: list of str, each word of each poem is a str
+    w2id: dict of all vocab words (keys) with a unique int (vals)
+    batch_size: int, size of each batch
+    seq_len: int, length of each sequence
+    
+    """
     
     poem_rep = [w2id[w] for w in flat_poems]
     total_batch_content = batch_size * seq_len # total num of words all batches contain
@@ -68,6 +36,22 @@ def get_batches(flat_poems, w2id, batch_size, seq_len):
         yield X[i:i+batch_size, :], Y[i:i+batch_size, :]
 
 def train(net, data, word2index, hp, clip=5, val_frac=0.1, print_every=1000, device='cuda:0'):
+
+    """
+    Trains a poetry model.
+    
+    net: poetrymodel.PoetryModel
+    data: list of str, all of the data (flat_poems)
+    word2index: dict of all vocab words (keys) with a unique int (vals)
+    hp: dict containing all hyperparameters for a model
+    clip: int, for gradient clipping
+    val_frac: float > 1, how much data to keep for val
+    print_every: int, how often to print stats
+    device: str indicating which cuda to use
+    
+    returns: name of model (str), loss
+    
+    """
     
     
     model_name = hp["model_name"]
@@ -193,6 +177,14 @@ def train(net, data, word2index, hp, clip=5, val_frac=0.1, print_every=1000, dev
     return model_name, loss
 
 def row_to_hp_dict(row):
+    """
+    Transforms a row from a df to a dict.
+    
+    row: a row in df.iterrows()
+    
+    returns: hp, a dict of hyperparameters
+    """
+    
     row = list(row[1])
     hp = {
         "model_name"     : row[0],
